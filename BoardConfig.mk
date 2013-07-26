@@ -31,5 +31,5 @@ TARGET_OTA_ASSERT_DEVICE := d2tmo
 TARGET_BOARD_INFO_FILE ?= device/samsung/d2tmo/board-info.txt
 
 # Kernel
-TARGET_KERNEL_CONFIG        := cyanogen_d2att_defconfig
+TARGET_KERNEL_CONFIG := cyanogen_d2att_defconfig
 
